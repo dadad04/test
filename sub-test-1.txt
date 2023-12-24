@@ -1,3 +1,7 @@
 TEST 1
 TEST 2
+  * sub test 1
+  * sub test 2
 TEST 3
+  * sub test 1
+TEST 4
